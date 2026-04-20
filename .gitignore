@@ -1,5 +1,4 @@
-node_modules
-session
-database.json
-pm2
+node_modules/
+session/
+session-backup/
 *.log
